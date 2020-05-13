@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/gwantyle/static/js/main.c17962d3.chunk.js",
-    "main.js.map": "/gwantyle/static/js/main.c17962d3.chunk.js.map",
-    "runtime-main.js": "/gwantyle/static/js/runtime-main.6b096a02.js",
-    "runtime-main.js.map": "/gwantyle/static/js/runtime-main.6b096a02.js.map",
-    "static/js/2.25ee4f3b.chunk.js": "/gwantyle/static/js/2.25ee4f3b.chunk.js",
-    "static/js/2.25ee4f3b.chunk.js.map": "/gwantyle/static/js/2.25ee4f3b.chunk.js.map",
-    "index.html": "/gwantyle/index.html",
-    "precache-manifest.b3db3a6fcd067d047e2d6e4b9b813f0b.js": "/gwantyle/precache-manifest.b3db3a6fcd067d047e2d6e4b9b813f0b.js",
-    "service-worker.js": "/gwantyle/service-worker.js",
-    "static/js/2.25ee4f3b.chunk.js.LICENSE.txt": "/gwantyle/static/js/2.25ee4f3b.chunk.js.LICENSE.txt"
+    "main.js": "/yourRepository/static/js/main.ee378832.chunk.js",
+    "main.js.map": "/yourRepository/static/js/main.ee378832.chunk.js.map",
+    "runtime-main.js": "/yourRepository/static/js/runtime-main.e473f98f.js",
+    "runtime-main.js.map": "/yourRepository/static/js/runtime-main.e473f98f.js.map",
+    "static/js/2.9b1079e4.chunk.js": "/yourRepository/static/js/2.9b1079e4.chunk.js",
+    "static/js/2.9b1079e4.chunk.js.map": "/yourRepository/static/js/2.9b1079e4.chunk.js.map",
+    "index.html": "/yourRepository/index.html",
+    "precache-manifest.1421ad0721a8f4a89c6e95d226ff0bb3.js": "/yourRepository/precache-manifest.1421ad0721a8f4a89c6e95d226ff0bb3.js",
+    "service-worker.js": "/yourRepository/service-worker.js",
+    "static/js/2.9b1079e4.chunk.js.LICENSE.txt": "/yourRepository/static/js/2.9b1079e4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b096a02.js",
-    "static/js/2.25ee4f3b.chunk.js",
-    "static/js/main.c17962d3.chunk.js"
+    "static/js/runtime-main.e473f98f.js",
+    "static/js/2.9b1079e4.chunk.js",
+    "static/js/main.ee378832.chunk.js"
   ]
 }
