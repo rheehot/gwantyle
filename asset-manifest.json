@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/gwantyle/static/js/main.178c2e58.chunk.js",
-    "main.js.map": "/gwantyle/static/js/main.178c2e58.chunk.js.map",
+    "main.js": "/gwantyle/static/js/main.7794711c.chunk.js",
+    "main.js.map": "/gwantyle/static/js/main.7794711c.chunk.js.map",
     "runtime-main.js": "/gwantyle/static/js/runtime-main.6b096a02.js",
     "runtime-main.js.map": "/gwantyle/static/js/runtime-main.6b096a02.js.map",
     "static/js/2.25ee4f3b.chunk.js": "/gwantyle/static/js/2.25ee4f3b.chunk.js",
     "static/js/2.25ee4f3b.chunk.js.map": "/gwantyle/static/js/2.25ee4f3b.chunk.js.map",
     "index.html": "/gwantyle/index.html",
-    "precache-manifest.b308ceabd581ecba2cc9f282e2a975ca.js": "/gwantyle/precache-manifest.b308ceabd581ecba2cc9f282e2a975ca.js",
+    "precache-manifest.2544dbcc0127a4f15db7a295117d353b.js": "/gwantyle/precache-manifest.2544dbcc0127a4f15db7a295117d353b.js",
     "service-worker.js": "/gwantyle/service-worker.js",
     "static/js/2.25ee4f3b.chunk.js.LICENSE.txt": "/gwantyle/static/js/2.25ee4f3b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6b096a02.js",
     "static/js/2.25ee4f3b.chunk.js",
-    "static/js/main.178c2e58.chunk.js"
+    "static/js/main.7794711c.chunk.js"
   ]
 }
