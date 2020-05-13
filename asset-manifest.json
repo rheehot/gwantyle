@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/riverandeye/static/js/main.a1e88898.chunk.js",
-    "main.js.map": "/riverandeye/static/js/main.a1e88898.chunk.js.map",
-    "runtime-main.js": "/riverandeye/static/js/runtime-main.d2d50343.js",
-    "runtime-main.js.map": "/riverandeye/static/js/runtime-main.d2d50343.js.map",
-    "static/js/2.a674931d.chunk.js": "/riverandeye/static/js/2.a674931d.chunk.js",
-    "static/js/2.a674931d.chunk.js.map": "/riverandeye/static/js/2.a674931d.chunk.js.map",
-    "index.html": "/riverandeye/index.html",
-    "precache-manifest.322c4adcd085c7d3125c73591ee37b0f.js": "/riverandeye/precache-manifest.322c4adcd085c7d3125c73591ee37b0f.js",
-    "service-worker.js": "/riverandeye/service-worker.js",
-    "static/js/2.a674931d.chunk.js.LICENSE.txt": "/riverandeye/static/js/2.a674931d.chunk.js.LICENSE.txt"
+    "main.js": "/gwantyle/static/js/main.5322cb19.chunk.js",
+    "main.js.map": "/gwantyle/static/js/main.5322cb19.chunk.js.map",
+    "runtime-main.js": "/gwantyle/static/js/runtime-main.6b096a02.js",
+    "runtime-main.js.map": "/gwantyle/static/js/runtime-main.6b096a02.js.map",
+    "static/js/2.72109b6f.chunk.js": "/gwantyle/static/js/2.72109b6f.chunk.js",
+    "static/js/2.72109b6f.chunk.js.map": "/gwantyle/static/js/2.72109b6f.chunk.js.map",
+    "index.html": "/gwantyle/index.html",
+    "precache-manifest.f6f5d37f1f7677dcfbbdb21de6fb0280.js": "/gwantyle/precache-manifest.f6f5d37f1f7677dcfbbdb21de6fb0280.js",
+    "service-worker.js": "/gwantyle/service-worker.js",
+    "static/js/2.72109b6f.chunk.js.LICENSE.txt": "/gwantyle/static/js/2.72109b6f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d2d50343.js",
-    "static/js/2.a674931d.chunk.js",
-    "static/js/main.a1e88898.chunk.js"
+    "static/js/runtime-main.6b096a02.js",
+    "static/js/2.72109b6f.chunk.js",
+    "static/js/main.5322cb19.chunk.js"
   ]
 }
