@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0beaa7713f7409b5d55f61b92bfd29ab",
+    "revision": "3ae5f150b8d99b2a920df190dadad5ac",
     "url": "/gwantyle/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gwantyle/static/js/2.05b11fd8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "90fcc0d886a919f2cf09",
-    "url": "/gwantyle/static/js/main.60b4428f.chunk.js"
+    "revision": "3cabf8696bc75a30f7e5",
+    "url": "/gwantyle/static/js/main.da5059c7.chunk.js"
   },
   {
     "revision": "d3ce906f1075b25ee5bc",
